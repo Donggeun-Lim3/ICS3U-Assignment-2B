@@ -8,8 +8,8 @@ def main():
     # this function calculates area of rhombus
 
     # input
-    length = int(input("Enter length of the rectangle (mm): "))
-    width = int(input("Enter width of the rectangle (mm): "))
+    length = int(input("Enter length of the rhombus (mm): "))
+    width = int(input("Enter width of the rhombus (mm): "))
 
     # process
     area = length*width/2
